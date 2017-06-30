@@ -1,0 +1,29 @@
+{
+  "name": "guiado-node",
+  "version": "1.0.0",
+  "description": "Ejercicio guiado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmAlva/GuiadoNode.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "dependencias"
+  ],
+  "author": "Laboratoria-EmmaTapia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmAlva/GuiadoNode/issues"
+  },
+  "homepage": "https://github.com/EmmAlva/GuiadoNode#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "materialize-css": "^0.99.0"
+  }
+}
